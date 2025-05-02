@@ -20,28 +20,43 @@ Explore the Apple Metal framework on [Apple's Developer site](https://developer.
 ### Hashcat Links
 
 [Hashcat website](https://hashcat.net/hashcat/)
+
 [Hashcat wiki](https://hashcat.net/wiki/)
+
 [Hashcat FAQ](https://hashcat.net/wiki/doku.php?id=frequently_asked_questions)
+
 [Hashcat forum](https://hashcat.net/forum/)
+
 [Hashcat on GitHub](https://github.com/hashcat/hashcat)
 
 ### Other Useful Links
 
 [Using a GPU with CUDA in Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/ai/directml/gpu-cuda-in-wsl)
+
 [Install the Homebrew package manager on macOS](https://brew.sh)
+
 [John the Ripper on GitHub](https://github.com/openwall/john)
+
 [Hashcat example hashes](https://hashcat.net/wiki/doku.php?id=example_hashes)
+
 [HashID on GitHub](https://github.com/psypanda/hashID?tab=readme-ov-file)
+
 [SecLists on GitHub](https://github.com/danielmiessler/SecLists)
+
 [Hashcat Wiki entry on Association Attacks](https://hashcat.net/wiki/doku.php?id=association_attack)
+
 [Hashcat Wiki entry on Rule-based Attacks](https://hashcat.net/wiki/doku.php?id=rule_based_attack)
+
 [Hashcat Forum post introducing the Brain service](https://hashcat.net/forum/thread-7903.html)
+
 [Hashtopolis on GitHub](https://github.com/hashtopolis)
 
 ### LinkedIn Learning Courses
 
 [Linux: Multitasking at the Command Line](https://www.linkedin.com/learning/linux-multitasking-at-the-command-line-18466403)
+
 [Learning Linux Command Line](https://www.linkedin.com/learning/learning-linux-command-line-14447912)
+
 [Windows Terminal Skills](https://www.linkedin.com/learning/windows-terminal-skills/windows-terminal-skills)
 
 ## Tips and notes
