@@ -1,6 +1,6 @@
 # Solutions for Practical Challenges
 
-Below are my solutions and recovered passwords for the challenges provided in *Hashcat Essential Training* from LinkedIn Learning. I have also provided code to generate your own hashes.
+Below are my solutions and recovered passwords for the challenges provided in [Hashcat Essential Training](https://www.linkedin.com/learning/hashcat-essential-training) from LinkedIn Learning. I have also provided code to generate your own hashes.
 
 ## Challenge 1: Linux User Password
 

@@ -1,8 +1,8 @@
 # Course Notes for *Hashcat Essential Training*
 
-This document contains links and notes for the course _Hashcat Essential Training_ from LinkedIn Learning.
+This document contains links and notes for the course [Hashcat Essential Training](https://www.linkedin.com/learning/hashcat-essential-training) from LinkedIn Learning.
 
-Challenges are provided in a separate file, `Challenges/Challenges.pdf`. Solutions to these challenges are provided in `Challenges/Solutions.pdf.`
+Challenges are provided in a separate file, `Challenges/Challenges.md`. Solutions to these challenges are provided in `Challenges/Solutions.md.`
 ## Links
 ### Platform-Specific Software
 

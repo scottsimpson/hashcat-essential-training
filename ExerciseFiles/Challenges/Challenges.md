@@ -1,6 +1,6 @@
 # Hashcat Practical Challenges 
 
-These challenges are part of the course *Hashcat Essential Training* from LinkedIn Learning.
+These challenges are part of the course [Hashcat Essential Training](https://www.linkedin.com/learning/hashcat-essential-training) from LinkedIn Learning.
 
 ## 1. Recover a Linux user password from /etc/shadow
 
